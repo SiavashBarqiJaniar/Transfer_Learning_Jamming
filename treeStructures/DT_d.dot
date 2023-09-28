@@ -1,0 +1,53 @@
+/*
+Copyright 2023 Siavash Barqi Janiar
+
+   Licensed under the Apache License, Version 2.0 (the "License");
+   you may not use this file except in compliance with the License.
+   You may obtain a copy of the License at
+
+     http://www.apache.org/licenses/LICENSE-2.0
+
+   Unless required by applicable law or agreed to in writing, software
+   distributed under the License is distributed on an "AS IS" BASIS,
+   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+   See the License for the specific language governing permissions and
+   limitations under the License.
+*/
+
+digraph Tree {
+node [shape=box, style="filled, rounded", color="black", fontname="helvetica"] ;
+edge [fontname="helvetica"] ;
+0 [label="node #0\nCh. 5 Disrupted/Successful <= 0.5\ngini = 0.686\nsamples = 100.0%\nvalue = [0.008, 0.01, 0.02, 0.01, 0.375, 0.009, 0.013, 0.18\n0.374]", fillcolor="#ffffff"] ;
+1 [label="node #1\nCh. 9 Disrupted/Successful <= 0.5\ngini = 0.557\nsamples = 62.5%\nvalue = [0.013, 0.016, 0.031, 0.017, 0.0, 0.015, 0.021, 0.289\n0.598]", fillcolor="#f4a9bc"] ;
+0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
+2 [label="node #2\nCh. 8 Disrupted/Successful <= 0.5\ngini = 0.469\nsamples = 25.1%\nvalue = [0.033, 0.04, 0.078, 0.041, 0.0, 0.037, 0.052, 0.718\n0.0]", fillcolor="#ed76e3"] ;
+1 -> 2 ;
+3 [label="node #3\nCh. 3 Disrupted/Successful <= 0.5\ngini = 0.816\nsamples = 7.1%\nvalue = [0.117, 0.143, 0.277, 0.147, 0.0, 0.131, 0.186, 0.0\n0.0]", fillcolor="#eefce9"] ;
+2 -> 3 ;
+4 [label="node #4\nCh. 7 Disrupted/Successful <= 0.5\ngini = 0.795\nsamples = 5.1%\nvalue = [0.161, 0.198, 0.0, 0.203, 0.0, 0.181, 0.257, 0.0, 0.0]", fillcolor="#f6f2fd"] ;
+3 -> 4 ;
+5 [label="node #5\nCh. 4 Disrupted/Successful <= 0.5\ngini = 0.748\nsamples = 3.8%\nvalue = [0.217, 0.266, 0.0, 0.273, 0.0, 0.243, 0.0, 0.0, 0.0]", fillcolor="#fdfffe"] ;
+4 -> 5 ;
+6 [label="node #6\nCh. 2 Disrupted <= 0.5\ngini = 0.664\nsamples = 2.8%\nvalue = [0.299, 0.367, 0.0, 0.0, 0.0, 0.335, 0.0, 0.0, 0.0]", fillcolor="#fdfef6"] ;
+5 -> 6 ;
+7 [label="node #7\nCh. 1 Disrupted/Successful <= 0.5\ngini = 0.498\nsamples = 1.8%\nvalue = [0.471, 0.0, 0.0, 0.0, 0.0, 0.529, 0.0, 0.0, 0.0]", fillcolor="#eaeefc"] ;
+6 -> 7 ;
+8 [label="node #8\ngini = 0.0\nsamples = 0.9%\nvalue = [0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0]", fillcolor="#3964e5"] ;
+7 -> 8 ;
+9 [label="node #9\ngini = 0.0\nsamples = 0.8%\nvalue = [1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]", fillcolor="#e58139"] ;
+7 -> 9 ;
+10 [label="node #10\ngini = 0.0\nsamples = 1.0%\nvalue = [0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]", fillcolor="#d7e539"] ;
+6 -> 10 ;
+11 [label="node #11\ngini = 0.0\nsamples = 1.0%\nvalue = [0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0]", fillcolor="#39e581"] ;
+5 -> 11 ;
+12 [label="node #12\ngini = 0.0\nsamples = 1.3%\nvalue = [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0]", fillcolor="#8139e5"] ;
+4 -> 12 ;
+13 [label="node #13\ngini = 0.0\nsamples = 2.0%\nvalue = [0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]", fillcolor="#64e539"] ;
+3 -> 13 ;
+14 [label="node #14\ngini = 0.0\nsamples = 18.0%\nvalue = [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0]", fillcolor="#e539d7"] ;
+2 -> 14 ;
+15 [label="node #15\ngini = 0.0\nsamples = 37.4%\nvalue = [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0]", fillcolor="#e53964"] ;
+1 -> 15 ;
+16 [label="node #16\ngini = 0.0\nsamples = 37.5%\nvalue = [0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0]", fillcolor="#39d7e5"] ;
+0 -> 16 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
+}
