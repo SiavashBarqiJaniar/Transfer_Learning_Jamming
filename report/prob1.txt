@@ -1,0 +1,22 @@
+Accuracy MSE: 100.00
+Accuracy MAE: 100.00
+Accuracy MSE: 100.00
+Accuracy MAE: 100.00
+Accuracy MSE: 100.00
+Accuracy MAE: 100.00
+Accuracy MSE: 100.00
+Accuracy MAE: 100.00
+Accuracy MSE: 100.00
+Accuracy MAE: 100.00
+Accuracy MSE: 100.00
+Accuracy MAE: 100.00
+Accuracy MSE: 100.00
+Accuracy MAE: 100.00
+Accuracy MSE: 100.00
+Accuracy MAE: 100.00
+Accuracy MSE: 100.00
+Accuracy MAE: 100.00
+Accuracy MSE: 100.00
+Accuracy MAE: 100.00
+Accuracy MAE avg: 100.00
+Accuracy RMSE avg: 100.00

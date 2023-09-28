@@ -1,0 +1,88 @@
+Accuracy MSE: 100.00
+Accuracy MAE: 100.00
+Accuracy MSE: 100.00
+Accuracy MAE: 100.00
+Accuracy MSE: 100.00
+Accuracy MAE: 100.00
+Accuracy MSE: 100.00
+Accuracy MAE: 100.00
+Accuracy MSE: 100.00
+Accuracy MAE: 100.00
+Accuracy MSE: 100.00
+Accuracy MAE: 100.00
+Accuracy MSE: 100.00
+Accuracy MAE: 100.00
+Accuracy MSE: 100.00
+Accuracy MAE: 100.00
+Accuracy MSE: 100.00
+Accuracy MAE: 100.00
+Accuracy MSE: 100.00
+Accuracy MAE: 100.00
+Accuracy MAE avg: 100.00
+Accuracy RMSE avg: 100.00
+Accuracy MSE: 100.00
+Accuracy MAE: 100.00
+Accuracy MSE: 100.00
+Accuracy MAE: 100.00
+Accuracy MSE: 100.00
+Accuracy MAE: 100.00
+Accuracy MSE: 100.00
+Accuracy MAE: 100.00
+Accuracy MSE: 100.00
+Accuracy MAE: 100.00
+Accuracy MSE: 100.00
+Accuracy MAE: 100.00
+Accuracy MSE: 100.00
+Accuracy MAE: 100.00
+Accuracy MSE: 100.00
+Accuracy MAE: 100.00
+Accuracy MSE: 100.00
+Accuracy MAE: 100.00
+Accuracy MSE: 100.00
+Accuracy MAE: 100.00
+Accuracy MAE avg: 100.00
+Accuracy RMSE avg: 100.00
+Accuracy MSE: 100.00
+Accuracy MAE: 100.00
+Accuracy MSE: 100.00
+Accuracy MAE: 100.00
+Accuracy MSE: 100.00
+Accuracy MAE: 100.00
+Accuracy MSE: 100.00
+Accuracy MAE: 100.00
+Accuracy MSE: 100.00
+Accuracy MAE: 100.00
+Accuracy MSE: 100.00
+Accuracy MAE: 100.00
+Accuracy MSE: 97.75
+Accuracy MAE: 98.72
+Accuracy MSE: 100.00
+Accuracy MAE: 100.00
+Accuracy MSE: 100.00
+Accuracy MAE: 100.00
+Accuracy MSE: 100.00
+Accuracy MAE: 100.00
+Accuracy MAE avg: 99.87
+Accuracy RMSE avg: 99.77
+Accuracy MSE: 100.00
+Accuracy MAE: 100.00
+Accuracy MSE: 100.00
+Accuracy MAE: 100.00
+Accuracy MSE: 100.00
+Accuracy MAE: 100.00
+Accuracy MSE: 100.00
+Accuracy MAE: 100.00
+Accuracy MSE: 100.00
+Accuracy MAE: 100.00
+Accuracy MSE: 100.00
+Accuracy MAE: 100.00
+Accuracy MSE: 100.00
+Accuracy MAE: 100.00
+Accuracy MSE: 100.00
+Accuracy MAE: 100.00
+Accuracy MSE: 100.00
+Accuracy MAE: 100.00
+Accuracy MSE: 100.00
+Accuracy MAE: 100.00
+Accuracy MAE avg: 100.00
+Accuracy RMSE avg: 100.00
